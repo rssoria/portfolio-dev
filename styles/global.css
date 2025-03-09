@@ -28,8 +28,8 @@
 }
 
 body {
-  font-family: var(--font-family);
-  color: var(--gray-400);
+  font: var(--text-md);
+  color: var(--gray-500);
 }
 
 h1 {
@@ -45,6 +45,12 @@ p {
 
 main {
   section > div {
+    max-width: 1366px;
+  }
+}
+
+footer {
+  section {
     max-width: 1366px;
   }
 }

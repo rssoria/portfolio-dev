@@ -1,7 +1,6 @@
 header {
   background-image: url("../assets/background/Background_Intro.png");
   background-size: cover;
-  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
 }
