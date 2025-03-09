@@ -31,3 +31,14 @@ body {
   font-family: var(--font-family);
   color: var(--gray-400);
 }
+
+h1 {
+  font: var(--title-lg);
+  color: var(--gray-600);
+  padding: 8px 0 20px;
+}
+
+p {
+ font: var(--subtitle);
+ color: var(--gray-500);
+}
