@@ -42,3 +42,18 @@ p {
  font: var(--subtitle);
  color: var(--gray-500);
 }
+
+main {
+  section div {
+    max-width: 1366px;
+  }
+}
+
+h2 {
+  font: var(--title-md);
+  color: var(--gray-600);
+}
+
+h3 {
+  font: var(--title-sm);
+}
