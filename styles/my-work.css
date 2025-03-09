@@ -1,5 +1,5 @@
 #myWork {
-  background-color: var(--gray-200);
+  background: linear-gradient(180deg, rgba(22,24,29,1) 80%, rgba(41, 41, 46,1) 100%);
   padding: 72px 144px;
   display: flex;
   justify-content: center;
@@ -7,6 +7,7 @@
 
   p {
     color: var(--red);
+    margin-bottom: 8px;
   }
 }
 

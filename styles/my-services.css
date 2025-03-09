@@ -1,0 +1,36 @@
+#myServices {
+  background-color: var(--gray-200);
+  padding: 88px 120px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+  p {
+    color: var(--red);
+    margin-bottom: 8px;
+  }
+}
+
+#services {
+  display: flex;
+  text-align: start;
+  margin-top: 56px;
+  gap: 24px;
+
+  h3 {
+    margin-top: 20px;
+  }
+
+  p {
+    font: var(--text-sm);
+    color: var(--gray-500);
+    margin-top: 8px;
+  }
+}
+
+.service {
+  padding: 20px;
+  width: 280px;
+  border: 2px solid var(--gray-300);
+  border-radius: 20px;
+}

@@ -44,7 +44,7 @@ p {
 }
 
 main {
-  section div {
+  section > div {
     max-width: 1366px;
   }
 }
